@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NocSchecter
-- 👀 I’m interested in Unity development
+- 👀 I’m interested in Unity and backend development
 - 🌱 I’m currently learning C#, JavaScript/TypeScript, SQL Server
 - 💞️ I’m looking to collaborate on Unity VR Games
 - 📫 How to reach me: erickaqge@gmail.com
